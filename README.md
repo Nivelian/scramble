@@ -4,7 +4,7 @@
 
 Project consists of 2 directories:
 - **fe** - Frontend part. Written using **shadow-cljs**  + **reagent**.  
-Run `npm run release` to build static files to ../be/resources/public folder.
+Run `npm i && npm run release` to build static files to ../be/resources/public folder.
 Server will serve them from that place.
 - **be** - Backend part. Written using **ring** + **compojure**.  
 Run `lein test` to apply tests for scramble function.  
