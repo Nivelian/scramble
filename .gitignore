@@ -1,0 +1,22 @@
+/.idea/
+
+# be
+/be/target
+/be/classes
+/be/checkouts
+/be/profiles.clj
+/be/pom.xml
+/be/pom.xml.asc
+/be/*.jar
+/be/*.class
+/be/.lein-*
+/be/.nrepl-port
+/be/.hgignore
+/be/.hg/
+/be/.idea/
+/be/resources/public/js/
+
+#fe
+/fe/.idea/
+/fe/.shadow-cljs/
+/fe/node_modules/
